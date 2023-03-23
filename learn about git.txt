@@ -1,0 +1,21 @@
+// check the version of git you have installed
+git --version
+
+//Initialize Git on the current folder:
+git init
+
+//Set the user name for the current repository to "w3schools-test":
+git config user.name "w3schools-test"
+
+//add index.html to the local environment
+git index.html
+
+
+//git configure
+git config --global user.name "Shahid Amin"
+git config --global user.email "schboostie@gmail.com
+
+//check the status of the user on Git
+
+//commit updated files
+git commit -a -m "New line added"

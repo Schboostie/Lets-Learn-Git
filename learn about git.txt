@@ -19,3 +19,13 @@ git config --global user.email "schboostie@gmail.com
 
 //commit updated files
 git commit -a -m "New line added"
+
+
+//View the history of commits for the repository:
+git log
+
+//Show the possible options for the status command in command line:
+git status -help
+
+//Show all git possible commands in command line:
+git help --all
